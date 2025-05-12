@@ -76,7 +76,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 More detailed instructions on installing `uv` can be found at `uv`'s [official
 documentation](https://docs.astral.sh/uv/getting-started/installation/)
 
-### Step 2: Install `xyn`
+### Step 2: Install `datasplit`
 Now that `pip` is installed, we simply run one of the following in the terminal
 to install `datasplit`:
 ```
